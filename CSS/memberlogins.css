@@ -1,0 +1,54 @@
+body{
+
+	background-image:url("../images/blue.jpg");
+	background-repeat:no-repeat;
+	background-size:;
+}
+
+#form-dsgn{
+	
+	width:400px;
+	height:330px;
+	border-top-right-radius:80px;
+	border-bottom-left-radius:80px;
+	background-color:#008080;
+	margin-top:90px;
+
+
+}
+
+.submit-dsgn{
+	
+	padding:5px 30px 5px 30px;
+	border-radius:5px;
+	border:1px solid #e68a00;
+	background-color:white;
+}
+
+input[type="text"],input[type="password"]{
+	padding:5px 30px 5px 30px;
+	border-radius:2px;
+	border:none;
+}
+a{margin-left:4px;
+color:black;
+}
+
+.submit-dsgn:hover{
+	background-color:#e68a00;
+	color:white;
+}
+
+
+
+#login-txt{
+	background-color:#e68a00;
+	color:white;
+	width:auto;
+	height:53px;
+	border-top-right-radius:80px;
+	text-align:left;
+	padding:20px 0px 0px 37px;
+}
+
+//w3resource.com
